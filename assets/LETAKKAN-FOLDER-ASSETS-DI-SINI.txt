@@ -1,0 +1,1 @@
+Salin seluruh isi folder "assets" dari website lama ke folder ini (nama file harus sama, mis. firepump-problade.webp, workshop-1.webp, catalog-sparepart-1.jpeg, dst.).
